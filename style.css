@@ -1,0 +1,15 @@
+h3 {
+    font-size: 48px;
+}
+
+#time {
+    font-size: 64px;
+    margin: 20px 0;
+    font-weight: bold;
+    letter-spacing: 4px;
+}
+
+.btn {
+    font-size: 30px;
+    padding: 15px 30px;
+}
